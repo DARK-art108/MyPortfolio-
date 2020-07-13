@@ -1,0 +1,439 @@
+{
+  "name": "Ritesh Yadav",
+  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "roles": [
+    "Kaggle 3x Expert 🚀",
+    "Android Developer 📱",
+    "GraphQL ✨",
+    "JavaScript 🚀",
+    "Deep Learning 🤖",
+    "Machine Learning 🔧"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:41.629Z",
+        "updatedAt": "2020-07-13T14:20:41.847Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/DARK-art108",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:45.869Z",
+        "updatedAt": "2020-07-13T14:22:29.277Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Medium",
+        "url": "https://medium.com/@daydreamingguy941",
+        "fontAwesomeIcon": "medium"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:44.853Z",
+        "updatedAt": "2020-07-13T14:52:40.034Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "https://daydreamingguy941.typeform.com/to/veTK6KQg",
+        "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:43.919Z",
+        "updatedAt": "2020-07-13T14:55:06.836Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ritesh-yadav-a2a6a818b/",
+        "fontAwesomeIcon": "linkedin"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "jmv5enhh3xx7"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-07-09T12:00:37.631Z",
+      "updatedAt": "2020-07-13T15:21:28.708Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 4,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Mate Logo",
+      "description": "Mate Logo",
+      "file": {
+        "url": "//images.ctfassets.net/jmv5enhh3xx7/6nf3rNaaVaUqYcoAcciSeC/f63df322ec5705ab9d1a2b2d55a5f4f9/Pixels.png",
+        "details": {
+          "size": 39411,
+          "image": {
+            "width": 959,
+            "height": 1280
+          }
+        },
+        "fileName": "Pixels.png",
+        "contentType": "image/png"
+      }
+    }
+  },
+  "aboutMe": "### Hi there 👋 I am Ritesh Yadav!\n\nA passionate and creative developer from india .🎯\n\nI ❤️ to create Android Application and to train Machine Learning🤖 and Deep Learning Models and Networks🕸.I have a 1+ year of Experience in creating Android Application with Clean architecture and Best Practices,currently I am engaged in learning Deep Learning and Taking part in [Kaggle](https://www.kaggle.com/ritesh2000) Competitions🏆,I am a Kaggle 3X Expert and also a part of various technical organization's. 🚀\n\nI am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.\n\n* Proficient in C++,Python,JavaScript Programing launguage.\n* Proficient in EDA,Data Visulization using Seaborn,Pandas,Numpy,Pandas-Bokeh and   Plotly.\n* Worked on Tensorflow,Keras and Pytorch by creating various Neural Networks like Covnets,Resnet50.\n* Experienced in creating Scalable and robust android application in Kotlin.\n* Proficient in using various android packages like Retrofit2,Glide,Dagger Hilt  and  many more.\n* Experienced in GraphQL, RESTApi's, AWS.\n* Past worked on Node.js,Express.js and MongoDB.",
+  "mediumUser": "@daydreamingguy941",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:46.643Z",
+        "updatedAt": "2020-07-13T16:10:06.286Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Countries",
+        "publishedDate": "2020-05-22T12:31+05:30",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "jmv5enhh3xx7"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2020-07-09T12:00:38.275Z",
+            "updatedAt": "2020-07-13T16:38:18.456Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Countries",
+            "description": "Facebook logo",
+            "file": {
+              "url": "//images.ctfassets.net/jmv5enhh3xx7/u3Um4zkMrAaQioyq4oSIW/9cd965a181f6d97783cd8f318f5ea46a/and.png",
+              "details": {
+                "size": 176697,
+                "image": {
+                  "width": 1200,
+                  "height": 1200
+                }
+              },
+              "fileName": "and.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/DARK-art108/Countries",
+        "description": "A simple Android Application which display countries with their capital. It is build in Kotlin, MVVM pattern using Retrofit2, Gson, RxKotlin is used for converting Data into Data Stream, Dagger2 for Dependency Injection,Glide for image loading,Mockito.",
+        "projectUrl": "https://github.com/DARK-art108/Countries",
+        "type": "Android"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:47.712Z",
+        "updatedAt": "2020-07-13T16:14:32.957Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Corona Virus Live Tracker and Advice ",
+        "publishedDate": "2020-05-03T09:00+05:30",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "jmv5enhh3xx7"
+              }
+            },
+            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "type": "Asset",
+            "createdAt": "2020-07-09T12:00:39.411Z",
+            "updatedAt": "2020-07-13T16:37:07.996Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Corona Virus Live Tracker and Advice ",
+            "description": "Gatsby logo",
+            "file": {
+              "url": "//images.ctfassets.net/jmv5enhh3xx7/6rkOXCpyvuekYIgy6U6gGu/c03e86f1b171fbf372f89b8be0052a1b/and.png",
+              "details": {
+                "size": 176697,
+                "image": {
+                  "width": 1200,
+                  "height": 1200
+                }
+              },
+              "fileName": "and.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/DARK-art108/Corona-Virus-Live-Tracker",
+        "description": "Corona Virus Tracker & Advices Android App with Kotlin ,Used retrofit and mvvm architecture,google map api. Current statistics of global total confirmed, deaths, recovered cases. Statistics of countries and regions total cases count World map.",
+        "projectUrl": "https://github.com/DARK-art108/Corona-Virus-Live-Tracker",
+        "type": "Android"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "jmv5enhh3xx7"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2020-07-09T12:00:48.706Z",
+        "updatedAt": "2020-07-13T16:26:55.126Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Task User API Using GraphQL",
+        "publishedDate": "2020-06-18T03:00+05:30",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "jmv5enhh3xx7"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2020-07-09T12:00:36.759Z",
+            "updatedAt": "2020-07-13T16:36:33.737Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Google Logo",
+            "description": "Logo from Google",
+            "file": {
+              "url": "//images.ctfassets.net/jmv5enhh3xx7/3AorRmtWOsGQ4o8gK0YWKG/f428b6aa9d1f7815d61d174d9843201f/logo22.png",
+              "details": {
+                "size": 32043,
+                "image": {
+                  "width": 256,
+                  "height": 256
+                }
+              },
+              "fileName": "logo22.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/DARK-art108/GraphQL-Apollo-Server-with-Node.js-MongoDB---GraphQL-API",
+        "description": "Created A GraphQL API Server with Apollo, Node.js, MongoDB. Jwt Authentication, Cursor Pagination, DB Query Batching & Caching.",
+        "projectUrl": "https://github.com/DARK-art108/GraphQL-Apollo-Server-with-Node.js-MongoDB---GraphQL-API",
+        "type": "Web"
+      }
+    }
+  ]
+}
